@@ -3,7 +3,7 @@ import Routes from './src/Screens/Routes';
 import 'react-native-gesture-handler';
 import { Provider } from 'react-redux';
 import Store from './src/Store';
-///git test
+///git test test
 export default class App extends React.PureComponent {
   render() {
     return (
